@@ -1,0 +1,11 @@
+Hello! I'm Asmi, a first-year B.Tech student majoring in Computer Science and Artificial Intelligence at Newton School of Technology, Rishihood University.
+
+My journey in tech is just beginning, but I love diving in headfirst. Recently, I participated in Hacktoberfest Sonipat right here on campus, which fueled my excitement for collaborative coding and the developer community. I'm actively learning, building, and exploring the intersection of AI and real-world problem-solving. Welcome to my portfolio—take a look around to see what I'm working on!
+
+- 1st Year B.Tech CS & AI @ Newton School of Technology (Rishihood University)
+
+- Tech Enthusiast & Developer-in-training
+
+- Recent participant: Hacktoberfest'26 Sonipat
+
+- Based in Sonipat, Haryana
